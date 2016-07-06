@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">MenusAndDialogs</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello">Hello</string>
+    <string name="log_out">Log Out</string>
+    <string name="change_backround">Change Backround</string>
+    <string name="choose_city">בחר עיר</string>
+    <string name="pick_toppings">Pick your toppings</string>
+
+    <array name="days">
+        <item>Sunday</item>
+        <item>Monday</item>
+        <item>Tuesday</item>
+        <item>Wednesday</item>
+        <item>Thursday</item>
+        <item>Friday</item>
+        <item>Saturday</item>
+    </array>
+
+
+    <array name="toppings">
+        <item>Lattice</item>
+        <item>Tomatoes</item>
+        <item>Onions</item>
+        <item>Maio</item>
+        <item>Ketshup</item>
+        <item>Extra Spice</item>
+    </array>
+</resources>
